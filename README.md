@@ -1,7 +1,7 @@
 
-# Need for speed: Tools for JVM tuning
+# Need for speed: JVM tooling overview
 
-Slide deck of presentation "**Need for speed: Tools for JVM tuning**" given at **Latcraft | Java** (Riga), *2015* by *Andrey Adamovich*.
+Slide deck of presentation "**Need for speed: JVM tooling overview**" given at **Latcraft | Java** (Riga), *2015* by *Andrey Adamovich*.
 
 Presentation description:
 
